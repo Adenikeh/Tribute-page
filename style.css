@@ -1,0 +1,18 @@
+body {
+    background: rgb(188, 143, 143);
+}
+
+#title {
+    text-align: center;
+}
+
+img {
+    display: block;
+}
+
+#image {
+
+    height: auto;
+    margin: auto;
+    max-width: 100%;
+}
